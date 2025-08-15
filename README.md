@@ -1,3 +1,2 @@
 # Electronic-Circuit-Based-Attendance-Counter
-Mini_Project
 We have developed an attendance system using an electronic counter circuit based on the IC 555 timer and CD4017 decade counter. In our setup, each time a person presses a switch or sensor while entering, the IC 555 generates a pulse that is sent to the CD4017, which advances the count. The number of entries is displayed using LEDs or a 7-segment display, providing a simple and cost-effective way to monitor attendance. This system is ideal for small classrooms, labs, or events where basic attendance tracking is needed without complex programming.
